@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lupang.enjoy-onepage.com/sitemap.xml
